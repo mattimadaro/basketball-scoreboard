@@ -115,6 +115,7 @@ body {
     margin-bottom: 10px;
     font-size: 12px;
     color: #EEEEEE;
+    font-family: 'Verdana';
 }
 
 /*Count Display for Period*/
@@ -164,6 +165,7 @@ body {
     margin-bottom: 5px;
     font-size: 22px;
     color: #EEEEEE;
+    font-family: 'Verdana';
 }
 
 /*Fouls Couter Display*/
